@@ -6,5 +6,5 @@ while True:
       break
    kahani += data + "\n"
 
-with open('story.txt','w') as file:
+with open('story.txt','w') as file: #print('The real story), print(kahani)
    file.write(kahani)
