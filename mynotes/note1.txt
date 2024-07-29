@@ -1,0 +1,6 @@
+This is my first note:
+python file handling is supet easy
+You can write and delete files easily
+OS module is the best
+python is easy language
+hehehe
